@@ -1,0 +1,2 @@
+# competition-spy
+research competition
